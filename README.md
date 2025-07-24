@@ -54,8 +54,8 @@ Build and evaluate machine learning models to classify whether a client will sub
 
 | Model              | ROC AUC |
 |-------------------|---------|
-| Logistic Regression | `~0.XX` |
-| Decision Tree       | `~0.XX` |
+| Logistic Regression | 0.9349 |
+| Decision Tree       | 0.9212 |
 
 Final decision is based on ROC AUC. The model with the higher score is considered better.
 
